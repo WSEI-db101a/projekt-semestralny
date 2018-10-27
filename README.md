@@ -1,2 +1,5 @@
-# projekt-semestralny
-Założenia do projektu semestralnego
+# Projekt semestralny
+
+## Założenia do projektu semestralnego
+
+
